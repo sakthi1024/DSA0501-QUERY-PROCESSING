@@ -1,9 +1,11 @@
 DSA0501-QUERY-PROCESSING
+
 1.
 ![image](https://github.com/sakthi1024/DSA0501-QUERY-PROCESSING/assets/114381518/d0cc8e16-73e8-40f2-9528-ce2fec99a909)
 
 2.
 ![image](https://github.com/sakthi1024/DSA0501-QUERY-PROCESSING/assets/114381518/cf18cbda-0ade-4baf-b975-04d5c1c0b5ff)
+
 3.
 ![image](https://github.com/sakthi1024/DSA0501-QUERY-PROCESSING/assets/114381518/320d569e-0795-4180-b85a-cde37be55c67)
 
